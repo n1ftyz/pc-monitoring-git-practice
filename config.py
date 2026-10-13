@@ -1,7 +1,7 @@
 CPU_LIMIT = 80
 
 # GPU settings
-GPU_LIMIT = 90
+GPU_LIMIT = 88
 
 # Polling settings
 POLL_INTERVAL = 5
