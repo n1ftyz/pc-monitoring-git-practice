@@ -7,3 +7,5 @@ def analyze(cpu, gpu, ram):
         "gpu": gpu >= GPU_LIMIT,
         "ram": ram >= RAM_LIMIT,
     }
+
+# True means the configured threshold was reached
