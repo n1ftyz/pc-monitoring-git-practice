@@ -9,3 +9,4 @@ def analyze(cpu, gpu, ram):
     }
 
 # True means the configured threshold was reached
+# Threshold analysis is used for monitoring.

@@ -1,0 +1,4 @@
+Game requirements:
+CPU
+GPU
+RAM
