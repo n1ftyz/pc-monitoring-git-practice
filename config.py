@@ -1,4 +1,4 @@
-CPU_LIMIT = 85
+CPU_LIMIT = 80
 
 # GPU settings
 GPU_LIMIT = 90
