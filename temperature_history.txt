@@ -1,0 +1,1 @@
+Temperature history for monitoring sessions.
