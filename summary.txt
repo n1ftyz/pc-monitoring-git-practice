@@ -1,0 +1,2 @@
+CPU summary
+GPU and RAM summary
