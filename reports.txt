@@ -1,0 +1,2 @@
+Session history
+CPU GPU RAM statistics
