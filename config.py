@@ -7,4 +7,4 @@ GPU_LIMIT = 90
 POLL_INTERVAL = 5
 
 # RAM settings
-RAM_LIMIT = 85
+RAM_LIMIT = 80
